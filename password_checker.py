@@ -1,4 +1,4 @@
-# Elite Team Cybersecurity Project: Basic Password Strength Checker
+# Cybersecurity Project: Basic Password Strength Checker
 import re
 
 def check_password_strength(password):
